@@ -74,7 +74,7 @@ The platform assists businesses and researchers in discovering e-commerce stores
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Python (Flask/FastAPI)
-* **Scraping:** BeautifulSoup, Requests, Selenium
+* **Scraping:** SerpAPI, Hunter API
 * **Email/Phone Extraction:** Regex, Python `whois`, `re`, and HTML parsing
 * **Data Handling:** Pandas for CSV generation
 * **Deployment:** Render / Heroku / Railway
